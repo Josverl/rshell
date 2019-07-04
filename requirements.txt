@@ -1,0 +1,5 @@
+#need both serial and pyserial for listport to work 
+pyserial==3.4
+serial==0.0.97
+#pyreadline on win source
+pyreadline==2.1
